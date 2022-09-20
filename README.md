@@ -5,6 +5,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gft Technologies
-- 🌱 I’m currently learning DAW2
 - 💬 Ask me about your problems
 
